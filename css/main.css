@@ -1,0 +1,25 @@
+body {
+  background-color: #FFF;
+  color: #333;
+    padding-top: 5rem;
+}
+
+.select-menu {
+    margin-top: 10px;
+    background: transparent;
+    color: #aaa;
+    border: none;
+    text-align: right;
+}
+
+.btn-outline-success {
+    color: #B40404;
+    background-color: transparent;
+    background-image: none;
+    border-color: #B40404;
+}
+.btn-outline-success:hover {
+    color: #fff;
+    background-color: #B40404;
+    border-color: #B40404;
+}
