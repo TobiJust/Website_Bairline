@@ -1,0 +1,56 @@
+#map-container {
+  min-height: 350px;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.align-middle {
+  vertical-align: middle;
+  margin-right: 1rem;
+}
+
+.margin-top-5 {
+  margin-top: 5rem;
+}
+
+.contact-box {
+  font-size: 0.7em;
+  color: #555;
+  padding: 2em;
+  width: 28%;
+  height: 260px;
+  position: absolute;
+  z-index: 1000;
+  background: #fff;
+  margin-top: 5%;
+  text-shadow: 0 0;
+}
+
+.text-gray {
+  color: #777;
+}
+.btn-social {
+  position: absolute;
+  border-radius: 50%;
+  border: solid 1px #333;
+  height: 50px;
+  width: 50px;
+  line-height: 38px;
+  margin-left: -25px;
+  background: #4060A5;
+}
+
+.btn-black {
+  background-color: #333;
+  color: #fff;
+  margin-top: 10px;
+  padding: 13px 54px 13px 54px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.btn-black:hover {
+  background-color: #555;
+  color: #e3e3e3;
+}
