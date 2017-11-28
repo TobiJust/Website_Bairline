@@ -38,3 +38,17 @@ a.scroll-arrow {
     background-color: #B40404;
     border-color: #B40404;
 }
+.btn-outline-success.focus, .btn-outline-success:focus {
+    box-shadow: 0 0 0 0.2rem rgba(180,4,4,.5);
+}
+.btn-outline-success:not([disabled]):not(.disabled).active, .btn-outline-success:not([disabled]):not(.disabled):active, .show>.btn-outline-success.dropdown-toggle {
+    color: #fff;
+    background-color: #B40404;
+    border-color: #B40404;
+    box-shadow: 0 0 0 0.2rem rgba(180,4,4,.5);
+}
+
+.social {
+  font-size: 1.5rem;
+  padding-left: 1rem;
+}
