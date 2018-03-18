@@ -22,7 +22,7 @@ body {
 }
 
 .jumbotron .container {
-  max-width: 40rem;
+  max-width: 60rem;
 }
 
 .album {
@@ -46,6 +46,15 @@ body {
 
 .card-text {
   font-size: 85%;
+}
+
+.data-sheet {
+  margin-top: 50px;
+}
+
+.data-sheet th {
+  width: 100px;
+  padding: 5px
 }
 
 footer {
