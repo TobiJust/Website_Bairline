@@ -52,3 +52,7 @@ a.scroll-arrow {
   font-size: 1.5rem;
   padding-left: 1rem;
 }
+
+.text-justify {
+  text-align: justify;
+}
